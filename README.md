@@ -3,7 +3,7 @@ Roadmap for season 2021/2022 (Android Team)
 
 ## Plans for this season 
 
-### Books 
+### Books :-
 
 #### Technical 
 - Clean code [Download](https://enos.itcollege.ee/~jpoial/oop/naited/Clean%20Code.pdf)
@@ -15,9 +15,54 @@ Roadmap for season 2021/2022 (Android Team)
 
 
 ### General Knowlodge 
-- Problem Solving 
+- Problem Solving (HackerRank || Leetcode)
 - Data structures 
 - Algorithms 
 - OOP 
-- 
+- Clean Code 
+
+#### Additional 
+- solid principles 
+
+### specific Knowlodge for android development 
+- Languages (Java && Kotlin)
+- layouts (Constraint layout, Linear layout, Relativelayout)
+- Android components (Activities, Services, Broadcast Receivers, Content Providers)
+- Intents 
+- RecyclerView 
+- fragments (Navigation components)
+- Activity lifecycle
+- Data Base (Shared preference, Room database)
+- Data Binding 
+- Background (WorkManager, kotlin coroutines)
+- Networking (Retrofit)
+- Git / Github
+
+
+## What should you do after this season ? 
+- Make an app form A to Z 
+- make projects on open source (Github)
+- Add new skills to your CV 
+- Team Work
+- Soft skills 
+
+
+We will make an interview with senior android developer in the holiday after final exams ^_^ 
+TO increase your Knowlodge 
+
+
+
+**Time to achieve this plan**
+
+Weekly : 10 to 15 hours 
+
+
+### Meeting 
+twice weekly (we will select day and time in first meeting)
+
+
+
+  
+
+
 
