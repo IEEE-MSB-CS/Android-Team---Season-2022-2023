@@ -58,7 +58,9 @@ Weekly : 10 to 15 hours
 
 
 ### Meeting 
-twice weekly (we will select day and time in first meeting)
+twice weekly :
+sun : 21 
+wensday : 21
 
 
 
