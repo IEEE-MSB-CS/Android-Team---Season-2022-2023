@@ -55,12 +55,14 @@ TO increase your Knowlodge
 **Time to achieve this plan**
 
 Weekly : 10 to 15 hours 
+ <br/>
+
+### Meetings 
+twice weekly : <br/>
+Sunday : 21  <br/>
+Wednesday : 21  <br/>
 
 
-### Meeting 
-twice weekly :
-sun : 21 
-wensday : 21
 
 
 
