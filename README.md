@@ -26,18 +26,18 @@ Roadmap for season 2021/2022 (Android Team)
 
 ### specific Knowlodge for android development 
 - Languages (Java && Kotlin)
-- layouts (Constraint layout, Linear layout, Relativelayout)
+- layouts (Constraint layout, Linear layout, Relativelayout) ✔
 - Android components (Activities, Services, Broadcast Receivers, Content Providers)
-- Intents 
-- RecyclerView 
-- fragments (Navigation components)
-- Activity lifecycle
-- Data Base (Shared preference, Room database)
-- Data Binding 
-- Background (WorkManager, kotlin coroutines)
-- Networking (Retrofit)
-- Git / Github
-
+- Intents ✔
+- RecyclerView ✔
+- fragments (Navigation components) ✔
+- Activity lifecycle ✔
+- Data Base (Shared preference, Room database) ✔
+- Data Binding && viewBinding ✔
+- Background (WorkManager, kotlin coroutines) ✔
+- Networking (Retrofit) ✔
+- Git / Github ✔
+ 
 
 ## What should you do after this season ? 
 - Make an app form A to Z 
@@ -61,6 +61,8 @@ Weekly : 10 to 15 hours
 twice weekly : <br/>
 Sunday : 21  <br/>
 Wednesday : 21  <br/>
+
+
 
 
 
