@@ -1,17 +1,15 @@
-# Android-Team--Season-2021-2022
-Roadmap for season 2021/2022 (Android Team)
+# Android-Team--Season-2022-2023
+Roadmap for season 2022/2023 (Android Team)
 
 ## Plans for this season 
 
 ### Books :-
 
 #### Technical 
-- Clean code [Download](https://enos.itcollege.ee/~jpoial/oop/naited/Clean%20Code.pdf)
-- Grokking Algorithms [Download](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
+- Head First Kotlin [Download](https://www.shroffpublishers.com/index.php?dispatch=attachments.getfile&attachment_id=887)
 
 #### Non-Technical 
-- [Download](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%B2-%D8%A7%D9%83%D8%AB%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D8%AB%D8%B1%D8%A7-%D9%81%D9%8A-%D8%AD%D9%8A%D8%A7%D9%87-%D8%A7%D9%84%D9%86%D8%A7%D8%AC%D8%AD%D9%8A%D9%86-pdf) كتاب التركيز أكثر العادات أثراً في حياة الناجحين
- 
+- Soft Skills The Software Developer's Life Manual [Download](https://github.com/aboelkassem/References_Books/blob/master/Soft%20Skills%20The%20Software%20Developer's%20Life%20Manual.pdf)
 
 
 ### General Knowlodge 
@@ -20,27 +18,27 @@ Roadmap for season 2021/2022 (Android Team)
 - Algorithms 
 - OOP 
 - Clean Code 
-
-#### Additional 
-- solid principles 
+- Solid principles 
 
 ### specific Knowlodge for android development 
 - Languages (Java && Kotlin)
-- layouts (Constraint layout, Linear layout, Relativelayout) ✔
 - Android components (Activities, Services, Broadcast Receivers, Content Providers)
-- Intents ✔
-- RecyclerView ✔
-- fragments (Navigation components) ✔
-- Activity lifecycle ✔
-- Data Base (Shared preference, Room database) ✔
-- Data Binding && viewBinding ✔
-- Background (WorkManager, kotlin coroutines) ✔
-- Networking (Retrofit) ✔
-- Git / Github ✔
+- Data Binding 
+- Background (WorkManager, kotlin Coroutines) 
+- Android architcuture (MVC, MVP, MVVM and finally MVI)
+- Android security 
+- What is the json ?
+- Reactive Programming
+- Google maps basics 
+- Dagger Hilt 
+- Most common design patterns in Android
+- Jetcompose (Searching)
+- what is the extenstion funcations?
+
  
 
 ## What should you do after this season ? 
-- Make an app form A to Z 
+- Make an app form A to Z (Advanced)
 - make projects on open source (Github)
 - Add new skills to your CV 
 - Team Work
@@ -48,19 +46,18 @@ Roadmap for season 2021/2022 (Android Team)
 
 
 We will make an interview with senior android developer in the holiday after final exams ^_^ 
-TO increase your Knowlodge 
+TO increase your Knowlodge about the technical-market
 
 
 
 **Time to achieve this plan**
 
-Weekly : 10 to 15 hours 
+Weekly : 8 to 10 hours 
  <br/>
 
 ### Meetings 
-twice weekly : <br/>
-Sunday : 21  <br/>
-Wednesday : 21  <br/>
+Once weekly : Monday -> 20 PM
+
 
 
 
